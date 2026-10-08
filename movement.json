@@ -1,0 +1,19 @@
+[
+  {
+    "id": "dash",
+    "charges": 3,
+    "cooldown": 0.5
+  },
+  {
+    "id": "slide",
+    "speedMultiplier": 1.5
+  },
+  {
+    "id": "wallJump",
+    "maxChain": 3
+  },
+  {
+    "id": "slamStorage",
+    "enabled": true
+  }
+]
